@@ -2,20 +2,6 @@
 Changelog for package example_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.14.1 (2025-07-01)
--------------------
-* fix cmake deprecation (`#23 <https://github.com/ros2/example_interfaces/issues/23>`_)
-* Contributors: mosfet80
-
-0.14.0 (2025-04-25)
--------------------
-* Remove .github/ISSUE_TEMPLATE.md (old version of templates) (`#21 <https://github.com/ros2/example_interfaces/issues/21>`_)
-* Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#19 <https://github.com/ros2/example_interfaces/issues/19>`_)
-* Contributors: Chris Lalancette, Tomoya Fujita
-
-0.13.0 (2024-04-26)
--------------------
-
 0.12.0 (2023-08-21)
 -------------------
 * Update to C++17. (`#18 <https://github.com/ros2/example_interfaces/issues/18>`_)
